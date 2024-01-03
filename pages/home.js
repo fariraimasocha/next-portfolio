@@ -1,3 +1,3 @@
-export function home (options) {
-
+export default function home() {
+    return <div>home</div>
 }
